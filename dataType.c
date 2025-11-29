@@ -12,7 +12,7 @@ int main (){
     printf("%d\n", ascii);
 
     int x = 65;
-    printf("%c\n", x);
+    printf("%c\n", x); //printing on screen
 
 
     return 0;
